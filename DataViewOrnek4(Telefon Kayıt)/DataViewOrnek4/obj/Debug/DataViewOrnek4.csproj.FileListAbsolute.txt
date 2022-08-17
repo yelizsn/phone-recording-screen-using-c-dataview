@@ -1,0 +1,30 @@
+C:\Users\FreeBSD\source\repos\DataViewOrnek4\DataViewOrnek4\bin\Debug\DataViewOrnek4.exe.config
+C:\Users\FreeBSD\source\repos\DataViewOrnek4\DataViewOrnek4\bin\Debug\DataViewOrnek4.exe
+C:\Users\FreeBSD\source\repos\DataViewOrnek4\DataViewOrnek4\bin\Debug\DataViewOrnek4.pdb
+C:\Users\FreeBSD\source\repos\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.csprojAssemblyReference.cache
+C:\Users\FreeBSD\source\repos\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.Form1.resources
+C:\Users\FreeBSD\source\repos\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.Properties.Resources.resources
+C:\Users\FreeBSD\source\repos\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.csproj.GenerateResource.cache
+C:\Users\FreeBSD\source\repos\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.csproj.CoreCompileInputs.cache
+C:\Users\FreeBSD\source\repos\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.exe
+C:\Users\FreeBSD\source\repos\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.pdb
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek4\DataViewOrnek4\bin\Debug\DataViewOrnek4.exe.config
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek4\DataViewOrnek4\bin\Debug\DataViewOrnek4.exe
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek4\DataViewOrnek4\bin\Debug\DataViewOrnek4.pdb
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.csprojAssemblyReference.cache
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.Form1.resources
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.Properties.Resources.resources
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.csproj.GenerateResource.cache
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.csproj.CoreCompileInputs.cache
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.exe
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.pdb
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.csproj.AssemblyReference.cache
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.Form1.resources
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.Properties.Resources.resources
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.csproj.GenerateResource.cache
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.csproj.CoreCompileInputs.cache
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.exe
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek4\DataViewOrnek4\obj\Debug\DataViewOrnek4.pdb
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek4\DataViewOrnek4\bin\Debug\DataViewOrnek4.exe.config
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek4\DataViewOrnek4\bin\Debug\DataViewOrnek4.exe
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek4\DataViewOrnek4\bin\Debug\DataViewOrnek4.pdb
